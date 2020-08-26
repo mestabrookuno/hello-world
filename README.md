@@ -1,3 +1,2 @@
 # hello-world
-First project
-First edit of readme file
+This is a local edit that'll be pushed to the Git repo...
